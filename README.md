@@ -1,7 +1,9 @@
 ## Recruiter Finder
 
 Tool for finding out the recruiters from the linkedin India based on the company, roles and skillset
+## Deployment
 
+See the live demo on [this link](https://recruiter-finder.vercel.app/)
 <img src="./public/screenshots/ss.png" >
 <img src="./public/screenshots/ss1.png" >
 
